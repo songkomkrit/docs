@@ -1,3 +1,3 @@
 # Documents
 
-The latest draft of my PhD dissertation is included.
+My MSc and PhD theses are included. The presentation slides are also available.
